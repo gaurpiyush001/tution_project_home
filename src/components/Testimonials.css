@@ -1,0 +1,19 @@
+.testimonials {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .testimonials h2 {
+    font-size: 2rem;
+  }
+  
+  .testimonials blockquote {
+    margin: 1rem 0;
+  }
+  
+  @media (max-width: 768px) {
+    .testimonials h2 {
+      font-size: 1.5rem;
+    }
+  }
+  

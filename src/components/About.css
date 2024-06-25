@@ -1,0 +1,15 @@
+.about {
+    padding: 2rem;
+    background-color: #fff;
+  }
+  
+  .about h2 {
+    font-size: 2rem;
+  }
+  
+  @media (max-width: 768px) {
+    .about h2 {
+      font-size: 1.5rem;
+    }
+  }
+  

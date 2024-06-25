@@ -1,0 +1,24 @@
+.commitments {
+    padding: 2rem;
+    background-color: #f4f4f4;
+  }
+  
+  .commitments h2 {
+    font-size: 2rem;
+  }
+  
+  .commitments ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .commitments li {
+    margin: 0.5rem 0;
+  }
+  
+  @media (max-width: 768px) {
+    .commitments h2 {
+      font-size: 1.5rem;
+    }
+  }
+  
